@@ -1,5 +1,5 @@
 # smallRoute
-根据类名字符串实现页面跳转
+根据类名字符串实现页面跳转，适用于比较轻量级的app，比较简单，通过字符串映射类，通过扩展UIViewController提供初始化方法和回调函数。
 
 ## 提供导航控制器
 [RouteManager shared].navigationController = navi;
